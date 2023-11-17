@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pertemuan7_contact</string>
+    <string name="nama">Nama</string>
+    <string name="no_telp">No Telpon</string>
+    <string name="Alamat">Alamat</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_back">Back</string>
+</resources>

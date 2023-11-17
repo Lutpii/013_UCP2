@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Exercise2</string>
+    <string name="back_button">Back</string>
+    <string name="confirm">Confirm</string>
+    <string name="next">Next</string>
+    <string name="cancel">Cancel</string>
+    <string name="dosen1">Haris Setiawan</string>
+    <string name="dosen2">Dwi Djoko P</string>
+    <string name="dosen3">Aprilia Kurnianti</string>
+    <string name="dosen11">Haris Setiawan</string>
+    <string name="dosen22">Dwi Djoko P</string>
+    <string name="dosen33">Aprilia Kurnianti</string>
+    <string name="summary">Ringkasan</string>
+    <string name="send">Send</string>
+
+</resources>
